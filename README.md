@@ -1,2 +1,2 @@
-# dsrB-Ppinggu
+# dsrB-pinggu
 dsrB functional gene
